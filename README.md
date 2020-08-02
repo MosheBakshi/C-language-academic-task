@@ -15,7 +15,9 @@ __Ex4:__
 __Ex5:__
 
     saving data about different variables in file,
-                  **example:**
+             
+             
+__example:__
                   
                          decleration int x,y;
                          saving :x requires 4 bytes
